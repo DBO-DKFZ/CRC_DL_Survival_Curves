@@ -11,3 +11,8 @@ Survival curve-based risk prediction achieved a very similar risk stratification
 
 ## **Keywords**
 deep learning, survival prediction, colorectal cancer, risk refinement, generalization
+
+## **Code**
+Code for training survival curve-based CRC survival predictors: training_image_models/main_training_curve.py
+
+Code for training binary survival predictors: training_image_models/main_training_binary.py
